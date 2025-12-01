@@ -11,7 +11,7 @@ app.use(cors());
 
 // Basic API Route
 app.get('/', (req, res) => {
-  res.send('Hello from the Express Backend!');
+  res.send('Hello from the Express Backend! this i the first i build backend online');
 });
 
 // A simple JSON API endpoint
